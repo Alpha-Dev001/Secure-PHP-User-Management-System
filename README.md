@@ -48,10 +48,10 @@ CREATE DATABASE student_db;
 The database connection is pre-configured in `connection.php`:
 
 ```php
-$host = 'localhost';
-$dbname = 'student_db';
-$username = 'root';
-$password = 'mu1ne2ze3ro4';
+$host = 'host name';
+$dbname = 'data base name';
+$username = 'user name';
+$password = 'password';
 ```
 
 Update the credentials if needed.
